@@ -1,2 +1,2 @@
 # looppool-privacy
-Loop Pool Privacy
+Pool Loop: Anomaly Privacy
